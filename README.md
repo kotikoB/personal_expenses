@@ -1,3 +1,3 @@
 # budget_planner
 
-A personal expenditure tracking application application.
+A personal expenditure tracking application.
