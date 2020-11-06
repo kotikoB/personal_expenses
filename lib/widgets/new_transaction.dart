@@ -62,6 +62,7 @@ class _NewTransactionState extends State<NewTransaction> {
               decoration: InputDecoration(labelText: 'Title Amount'),
               controller: _amountController,
               keyboardType: TextInputType.number,
+              onSubmitted: (_) => _submitData(),
             ),
             Container(
               height: 70,
